@@ -162,3 +162,7 @@ Este código demuestra los **fundamentos básicos** de cómo funcionan las redes
 4. **Procesamiento distribuido**: Múltiples neuronas procesan la misma información
 
 Aunque simple, estos son los mismos principios que usan las redes neuronales modernas en IA, solo que con miles o millones de neuronas trabajando juntas.
+
+### 📝 Notas de Desarrollo
+
+Este es el **Día 1** de una serie de aprendizaje progresivo sobre redes neuronales. El código está diseñado para ser educativo
