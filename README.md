@@ -4,4 +4,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 
 ## Retos
 
-*   [Día 1: Neuronas](./neurons/readme.MD)
+*   [Día 1: Neuronas](./neurons/README.md)
