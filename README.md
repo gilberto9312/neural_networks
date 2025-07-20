@@ -6,3 +6,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 
 *   [Día 1: Neuronas](./neurons/README.md)
 *   [Día 2: Sigmoid](./sigmoid/README.md)
+*   [Día 3: tanh](./tanh/README.md)
