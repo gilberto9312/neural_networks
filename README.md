@@ -8,3 +8,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 *   [Día 2: Sigmoid](./sigmoid/README.md)
 *   [Día 3: tanh](./tanh/README.md)
 *   [Día 4: relU](./relu/README.md)
+*   [Día 5: perceptron](./perceptron/README.md)
