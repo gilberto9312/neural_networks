@@ -10,3 +10,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 *   [Día 4: relU](./relu/README.md)
 *   [Día 5: perceptron](./perceptron/README.md)
 *   [Día 6: xor](./xor/README.md)
+*   [Día 7: momentum](./momentum/README.md)
