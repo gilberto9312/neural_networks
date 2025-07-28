@@ -11,3 +11,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 *   [Día 5: perceptron](./perceptron/README.md)
 *   [Día 6: xor](./xor/README.md)
 *   [Día 7: momentum](./momentum/README.md)
+*   [Día 8: comparation optimizer](./comparation-optimizer/README.md)
