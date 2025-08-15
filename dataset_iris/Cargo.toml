@@ -1,0 +1,9 @@
+[package]
+name = "dataset_iris"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+csv = "1.3"
+rand = "0.8"
+plotters = "0.3"
