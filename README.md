@@ -14,3 +14,4 @@ Este repositorio contiene una serie de 21 retos de programación en Rust, diseñ
 *   [Día 8: comparation optimizer](./comparation-optimizer/README.md)
 *   [Día 9: regularization](./regularization/README.md)
 *   [Día 10: gráficas](./graph/README.md)
+*   [Día 11: earlyStopping](./earlyStopping/README.md)
