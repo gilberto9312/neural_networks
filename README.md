@@ -35,6 +35,7 @@ Esta es la progresión recomendada para seguir el reto de forma secuencial.
 | 10 | [`graph`](./graph/) | Visualización de Métricas de Entrenamiento |
 | 11 | [`earlyStopping`](./earlyStopping/) | Parada Temprana (Early Stopping) |
 | 12 | [`dataset_iris`](./dataset_iris/) | Aplicación Práctica: Clasificación Multiclase |
+| 13 | [`dataset_mnist`](./dataset_mnist/) | Aplicación Práctica: Clasificación png  |
 
 ---
 
@@ -63,3 +64,4 @@ Usa este índice para encontrar proyectos relacionados con un tema específico.
 ### 5. Análisis y Aplicaciones Prácticas
 *   **[`graph`](./graph/)**: Visualiza las curvas de error para diagnosticar el entrenamiento.
 *   **[`dataset_iris`](./dataset_iris/)**: Resuelve un problema de clasificación del mundo real de principio a fin.
+*   **[`dataset_mnist`](./dataset_mnist/)**: Resuelve un problema de clasificación de imagenes.
