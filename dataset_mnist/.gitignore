@@ -1,0 +1,6 @@
+/target
+/training_curve.png
+/mnist_training_metrics.png
+/mnist_small_dataset_metrics.png
+/public/train/
+/public/valid/
