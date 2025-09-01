@@ -46,3 +46,7 @@ cargo run
 
 El programa detectará y utilizará la GPU disponible para acelerar el entrenamiento.
 
+## Resultado esperado,
+![uso del gpu](https://github.com/gilberto9312/neural_networks/blob/main/dataset_mnist_gpu/public/Screenshot%202025-08-31%20at%207.25.18%E2%80%AFPM.png)
+
+
