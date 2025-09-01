@@ -36,7 +36,7 @@ Esta es la progresión recomendada para seguir el reto de forma secuencial.
 | 11 | [`earlyStopping`](./earlyStopping/) | Parada Temprana (Early Stopping) |
 | 12 | [`dataset_iris`](./dataset_iris/) | Aplicación Práctica: Clasificación Multiclase |
 | 13 | [`dataset_mnist`](./dataset_mnist/) | Aplicación Práctica: Clasificación png  |
-| 13 | [`dataset_mnist_gpu`](./dataset_mnist_gpu/) | Aplicación Práctica: Clasificación png procesado con la GPU |
+| 14 | [`dataset_mnist_gpu`](./dataset_mnist_gpu/) | Aplicación Práctica: Clasificación png procesado con la GPU |
 
 ---
 
