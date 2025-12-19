@@ -1,0 +1,10 @@
+[package]
+name = "attention"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.15"           # Arrays para atención
+ndarray-rand = "0.14"
+rand = "0.8"
+plotters = "0.3"           # Heatmaps de atención

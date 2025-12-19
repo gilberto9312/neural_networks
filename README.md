@@ -38,6 +38,18 @@ Esta es la progresión recomendada para seguir el reto de forma secuencial.
 | 13 | [`dataset_mnist`](./dataset_mnist/) | Aplicación Práctica: Clasificación png  |
 | 14 | [`dataset_mnist_gpu`](./dataset_mnist_gpu/) | Aplicación Práctica: Clasificación png procesado con la GPU |
 
+### 🤖 Días 15-21: Fundamentos de Large Language Models (LLM)
+
+| Día | Proyecto | Concepto Clave |
+| :-- | :--- | :--- |
+| 15 | [`day15_ngram_models`](./days_15_21_llm/day15_ngram_models/) | Modelos N-gram y Generación de Texto |
+| 16 | [`day16_perplexity`](./days_15_21_llm/day16_perplexity/) | Evaluación con Perplexity |
+| 17 | [`day17_tokenizers`](./days_15_21_llm/day17_tokenizers/) | Tokenización BPE (Byte Pair Encoding) |
+| 18 | [`day18_embeddings`](./days_15_21_llm/day18_embeddings/) | Word Embeddings y Similitud Semántica |
+| 19 | [`day19_mlp_text`](./days_15_21_llm/day19_mlp_text/) | MLP para Clasificación de Texto |
+| 20 | [`day20_attention`](./days_15_21_llm/day20_attention/) | Mecanismo de Atención |
+| 21 | [`day21_small_transformer`](./days_15_21_llm/day21_small_transformer/) | Transformer Completo - Small LLM |
+
 ---
 
 ## 📚 Guía Temática de Conceptos
@@ -67,3 +79,18 @@ Usa este índice para encontrar proyectos relacionados con un tema específico.
 *   **[`dataset_iris`](./dataset_iris/)**: Resuelve un problema de clasificación del mundo real de principio a fin.
 *   **[`dataset_mnist`](./dataset_mnist/)**: Resuelve un problema de clasificación de imagenes.
 *   **[`dataset_mnist_gpu`](./dataset_mnist_gpu/)**: Resuelve un problema de clasificación de imagenes procesado con la GPU.
+
+### 6. 🤖 Large Language Models (LLM) - Días 15-21
+
+#### Fundamentos Estadísticos
+*   **[`day15_ngram_models`](./days_15_21_llm/day15_ngram_models/)**: Modelos de lenguaje estadísticos (Unigram, Bigram, Trigram) y generación de texto con muestreo
+*   **[`day16_perplexity`](./days_15_21_llm/day16_perplexity/)**: Métrica de evaluación Perplexity y comparación de modelos
+
+#### Preprocesamiento y Representación
+*   **[`day17_tokenizers`](./days_15_21_llm/day17_tokenizers/)**: Tokenización avanzada con BPE (Byte Pair Encoding)
+*   **[`day18_embeddings`](./days_15_21_llm/day18_embeddings/)**: Word Embeddings, similitud coseno y Word2Vec simplificado
+
+#### Arquitecturas de Red Neuronal para NLP
+*   **[`day19_mlp_text`](./days_15_21_llm/day19_mlp_text/)**: Perceptrón Multicapa para clasificación de texto
+*   **[`day20_attention`](./days_15_21_llm/day20_attention/)**: Mecanismo de atención (Scaled Dot-Product, Multi-Head)
+*   **[`day21_small_transformer`](./days_15_21_llm/day21_small_transformer/)**: Arquitectura Transformer completa - Small Language Model funcional

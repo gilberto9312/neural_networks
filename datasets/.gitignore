@@ -1,0 +1,5 @@
+# Ignorar los datasets descargados
+africa_galore.json
+tiny_stories/
+*.json
+*.txt
