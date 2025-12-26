@@ -1,10 +1,9 @@
 [package]
 name = "mlp_text"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-ndarray = "0.15"           # Arrays para MLP
-ndarray-rand = "0.14"
-rand = "0.8"
-plotters = "0.3"           # Curvas de aprendizaje
+ndarray = "0.15"           # Arrays N-dimensionales para MLP
+ndarray-rand = "0.14"      # Inicialización aleatoria de pesos
+rand = "0.8"               # Generación de números aleatorios
