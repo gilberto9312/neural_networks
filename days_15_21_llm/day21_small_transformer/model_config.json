@@ -1,0 +1,7 @@
+{
+  "vocab_size": 30,
+  "d_model": 128,
+  "num_heads": 4,
+  "num_layers": 2,
+  "max_seq_len": 64
+}
